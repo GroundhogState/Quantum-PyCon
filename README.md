@@ -30,6 +30,7 @@ What software is there?
 * Forest
 * PennyLane
 * Q#/MSFT QDK
+* Cirq
 
 Also, simulation libraries:
 * QuTiP
