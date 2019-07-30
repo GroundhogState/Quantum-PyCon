@@ -8,7 +8,7 @@ Before we get there, here's a why you should care about quantum computing.
 * Speedups
 * Security
 * Simulation
-* "The search for a killer app" - "One app to rule them all"
+* "The search for a killer app" 
 
 Everything you need to know about quantum computing in thirty seconds:
 * The basic unit is a qubit - exists in a mix of 0/1, but you just get one when you measure
@@ -16,25 +16,6 @@ Everything you need to know about quantum computing in thirty seconds:
 * Maintaining coherence is a central challenge for qubit devices
 * Circuit model of quantum computing
 
-Who has hardware?
-* IBM
-* Rigetti 
-* Ion-Q
-* Xanadu
-* Google won't share
-* D-wave doesn't count
-
-What software is there?
-* Qiskit (IBM)
-* PyQuil (Rigetti)
-* Forest
-* PennyLane
-* Q#/MSFT QDK
-* Cirq
-
-Also, simulation libraries:
-* QuTiP
-* StrawberryFields
 
 * Submitting a job to Rigetti with PennyLane: Grover Search?
 
